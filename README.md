@@ -18,6 +18,16 @@ Traffic data was collected from real-world road conditions in Shenyang and proce
 - GitHub Pages
 
 ## Analysis
+### Analysis Results
+
+#### Traffic Conditions by Time Period
+![Traffic Conditions by Time Period](average_travel_time_by_period.png)
+
+#### Traffic Conditions by Road
+![Traffic Conditions by Road](average_travel_time_by_road.png)
+
+#### Congestion Level Distribution
+![Congestion Level Distribution](congestion_level_chart.png)
 
 The project includes:
 
